@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label"></string>
+    <string name="second_fragment_label">Location Checker</string>
+    <string name="third_fragment_label">Location Editor</string>
+    <string name="next">Location Checker</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Welcome to Umar\'s Location Checker</string>
+    <string name="hello_second_fragment"></string>
+    <string name="editor">Location Editor</string>
+    <string name="address">Address</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter">Enter</string>
+    <string name="address1">Address</string>
+    <string name="lattitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="address2">Address</string>
+    <string name="add_address">Add Address</string>
+    <string name="add_address_latitude_longitude_to_database">Add Address, Latitude, Longitude to Database</string>
+    <string name="delete_address">Delete Address</string>
+    <string name="address3">Address</string>
+    <string name="delete_address_from_database">Delete Address from Database</string>
+    <string name="update_address_in_database">Update Address in Database</string>
+    <string name="old_address">Old Address</string>
+    <string name="new_address">New Address</string>
+    <string name="update_address">Update Address</string>
+    <string name="view_database">View Database</string>
+</resources>
